@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi, I’m Neil Andruski @neilandruski 👋
 
-- 👋 Hi, I’m Neil Andruski @neilandruski
-- 👀 I’m interested in Cybersecurity and automation scripts 
-- 🌱 I’m currently learning shell/bash scripting and api wrappers.
+#I am IT Support Specialist with a small university in Philadelphia. Currently studying Cybersecurity and Information Assurance at WGU.
 
+## **Interests**
+  - 👀 I’m interested in Cybersecurity and automation scripts 
+  - 🌱 I’m currently learning shell/bash scripting and api wrappers.
 
-
+##**Certificates**
+  - Comptia A+, Net+, Sec+, Project+
+  - ITILv4 Foundation Certificate in IT Service Management
+ 
+ 
 <!--
 **neilandruski/neilandruski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
