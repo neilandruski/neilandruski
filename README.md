@@ -7,7 +7,8 @@
   - 🌱 I’m currently learning shell/bash scripting and api wrappers.
 
 ## **Certificates**
-  - Comptia A+, Net+, Sec+, Project+
+  - Comptia A+, Net+, Sec+, Project+, CySA+
+  - Associate of (ISC)2 -- SSCP
   - ITILv4 Foundation Certificate in IT Service Management
  
  
