@@ -1,13 +1,13 @@
 # Hi, I’m Neil Andruski @neilandruski 👋
 
-### I am IT Support Specialist with a small university in Philadelphia. Currently studying Cybersecurity and Information Assurance at WGU.
+### I am IT Support Specialist in Philadelphia. Currently studying Cybersecurity and Information Assurance at WGU.
 
 ## **Interests**
   - 👀 I’m interested in Cybersecurity and automation scripts 
   - 🌱 I’m currently learning shell/bash scripting and api wrappers.
 
 ## **Certificates**
-  - Comptia A+, Net+, Sec+, Project+, CySA+
+  - CompTIA Pentest+, CySa+, Security+, Network+, A+, Project+
   - Associate of (ISC)2 -- SSCP
   - ITILv4 Foundation Certificate in IT Service Management
  
