@@ -1,6 +1,6 @@
 # Hi, I’m Neil Andruski @neilandruski 👋
 
-### I am IT Support Specialist in Philadelphia. Currently studying Cybersecurity and Information Assurance at WGU.
+### I am IT Support Specialist in Philadelphia. Recent graduate in Cybersecurity and Information Assurance from WGU.
 
 ## **Interests**
   - 👀 I’m interested in Cybersecurity and automation scripts 
